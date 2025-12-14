@@ -1,0 +1,87 @@
+
+  < class="owl-nav ">
+    < class="prevbtn" onclick="prev_curosell('sliderWapper-9')">
+      <img loading="lazy" src="https://chekida.com/static/ecom/image/Svg/All/linear/arrow-right-1.svg" alt="">
+
+      <div>
+      <div class="prevbtn my-2 mx-2 active" onclick="">
+        <img loading="lazy" src="https://chekida.com/static/ecom/image/Svg/All/linear/arrow-right-1.svg" alt="">
+  
+      </div>
+
+
+
+
+
+
+
+
+      <div class=" container my-5" id="cccc">
+          <div class="carousel slide" ">
+            <div class="carousel-inner ">
+              <div class="carousel-item active d-flex ">
+               
+                
+                <button>
+                  <i></i> همه ی کتاب ها
+                </button>
+                <button>
+                  <i></i> کتاب های رایگان
+                </button>
+                <button>
+                  <i></i> صوتی ها
+                </button>
+                <button>
+                  <i></i> برای ساخت نگرش جدید
+                </button>
+                <button>
+                  <i></i> برای راه اندازی کسب وکار
+                </button>
+                <button>
+                  <i></i> برای شناخت بهتر خودت
+                </button>
+                <button>
+                  <i></i> برای عبور از سختی ها
+                </button>
+                <button>
+                  <i></i> برای زندگی عاشقانه
+                </button>
+                <button>
+                  <i></i> برای حقوق زنان
+                </button>
+                <button>
+                  <i></i> درباره شوروی و کمونیسم
+                </button>
+                <button>
+                  <i></i> برای خوره های نجوم
+                </button>
+                <button>
+                  <i></i> برای ارامش زنگی
+                </button>
+            
+              
+              </div>
+            </div>  
+            <div class="carousel-side container">
+              <button class="carousel-control-prev" data-bs-target="cccc" data-bs-slide="prev"="">
+                <span class="carousel-control-prev-icon bg-black"></span>
+              </button>
+
+              <button class="carousel-control-next" data-bs-target="" data-bs-slide="next"="">
+                <span class="carousel-control-next-icon bg-black mx-4"></span>
+              </button>
+            </div>
+            
+
+          </div> 
+        </div>
+
+
+
+
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <button class="btn btn-secondary">قبلی</button>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <button class="btn btn-secondary">بعدی</button>
+          </a>
